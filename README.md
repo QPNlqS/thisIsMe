@@ -23,6 +23,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Deployment
+
 Find more details here: https://angular.io/guide/deployment#deploy-to-github-pages.
 
 ## Further help
